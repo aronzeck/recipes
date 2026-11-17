@@ -1,5 +1,5 @@
 // Offline support: cache the app shell. Bump VERSION when files change.
-const VERSION = 'recipes-v1';
+const VERSION = 'recipes-v2';
 const FILES = [
   './',
   'index.html',
